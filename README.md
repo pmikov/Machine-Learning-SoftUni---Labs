@@ -16,3 +16,6 @@ The course covers the following topics (4-hour Lectures + Labs):
 8.	Exam Preparation: End-to-end Project
 9.	Course Summary
 
+Additional lectures:
+10. Time Series Analysis
+11. Model Deployment
