@@ -1,6 +1,6 @@
 # Machine-Learning-SoftUni---Labs
 
-Live exercises & Homework done for "Machine Learning" course at Software University (September-October 2020) 
+Live exercises & homework done for "Machine Learning" course at Software University (September-October 2020) 
 - course 3 of 4 of "Artificial Intelligence" specialization
 
 The course covers the following topics (4-hour live Lectures + Labs):
